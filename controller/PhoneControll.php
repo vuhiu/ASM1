@@ -5,7 +5,7 @@
         public function __construct()
         {
             $this->phoneModel = new Phone();
-          svsdvd
+          
         }
 
         public function getList() {
