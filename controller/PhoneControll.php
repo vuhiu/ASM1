@@ -71,7 +71,7 @@
 
         public function delete()
         {
-            // lay id ban ghi can xoa
+            
             $id = isset($_GET['id']) 
             ? $_GET['id'] 
             : null;
